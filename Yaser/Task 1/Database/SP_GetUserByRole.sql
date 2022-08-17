@@ -1,0 +1,18 @@
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE PROCEDURE GetUsersByRole 
+	
+	@role int
+AS
+BEGIN
+	
+	SET NOCOUNT ON;
+
+    
+	SELECT * FROM dbo.[User] as u Where u.RoleID = @role
+END
+GO
