@@ -1,0 +1,47 @@
+task 1+2:
+
+1. Review "How to create new angular project".
+	// ng new App_Name
+2. Review "How to create new angular Component".
+	// ng g c Component_Name
+3.Review "How to routing components".
+	ex: Route SignUpComponent in angular
+	sol:	Go to "app-routing.module.ts"
+		import { SignUpComponent } from './Common/sign-up/sign-up.component';
+
+		const routes: Routes = [
+  			{ path: 'sign_up' , component: SignUpComponent },
+  					];
+4.Review "How to add Bootstrap to angular projrct".
+	a.
+	b.
+	c.
+
+5.Review "How to build Auth Service using Firebase".
+	
+	a. add 'firebase:{}' object in "environment.ts".
+	b. Run in terminal : npm install firebase @angular/fire
+	c. 
+		import { AngularFireModule } from '@angular/fire/compat';
+		import { AngularFireAuthModule } from '@angular/fire/compat/auth';
+		import { AngularFireStorageModule } from '@angular/fire/compat/storage';
+		import { AngularFirestoreModule } from '@angular/fire/compat/firestore';
+		import { AngularFireDatabaseModule } from '@angular/fire/compat/database';
+		import { environment } from '../environments/environment';
+		import { FormsModule } from '@angular/forms';
+
+	d.Add libraries in 'imports object' in @NgModules 
+		FormsModule,
+    		AngularFireModule.initializeApp(environment.firebase),
+    		AngularFireAuthModule,
+    		AngularFireStorageModule,
+    		AngularFirestoreModule,
+    		AngularFireDatabaseModule,
+	e.
+
+
+
+
+
+
+

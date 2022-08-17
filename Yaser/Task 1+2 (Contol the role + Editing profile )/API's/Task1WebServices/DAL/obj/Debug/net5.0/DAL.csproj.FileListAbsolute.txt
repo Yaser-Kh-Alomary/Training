@@ -1,0 +1,15 @@
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\DAL.dll
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\DML.dll
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\bin\Debug\net5.0\DML.pdb
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.dll
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Training\Azure-DevOps\Traning\Task 1+2 (Contol the role + Editing profile )\API's\Task1WebServices\DAL\obj\Debug\net5.0\DAL.pdb
