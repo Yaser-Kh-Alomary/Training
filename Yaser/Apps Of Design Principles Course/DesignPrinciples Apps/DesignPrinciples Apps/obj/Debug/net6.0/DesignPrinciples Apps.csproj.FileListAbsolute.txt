@@ -1,0 +1,15 @@
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\bin\Debug\net6.0\DesignPrinciples Apps.exe
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\bin\Debug\net6.0\DesignPrinciples Apps.deps.json
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\bin\Debug\net6.0\DesignPrinciples Apps.runtimeconfig.json
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\bin\Debug\net6.0\DesignPrinciples Apps.dll
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\bin\Debug\net6.0\DesignPrinciples Apps.pdb
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.csproj.AssemblyReference.cache
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.AssemblyInfoInputs.cache
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.AssemblyInfo.cs
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.csproj.CoreCompileInputs.cache
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.dll
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\refint\DesignPrinciples Apps.dll
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.pdb
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\DesignPrinciples Apps.genruntimeconfig.cache
+D:\Training\GitHub\Training\Yaser\Apps Of Design Principles Course\DesignPrinciples Apps\DesignPrinciples Apps\obj\Debug\net6.0\ref\DesignPrinciples Apps.dll
