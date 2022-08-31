@@ -19,8 +19,7 @@ namespace UserManagement.Data
             //builder.HasDefaultSchema("");
 
             builder.Entity<ApplicationUser>()
-                .ToTable("Users", "security")
-                .Ignore(e => e.ProfilePicture);
+                .ToTable("Users", "security");
             builder.Entity<IdentityRole>().ToTable("Roles", "security");
             builder.Entity<IdentityUserRole<string>>().ToTable("UserRoles", "security");
             builder.Entity<IdentityUserClaim<string>>().ToTable("UserClaims", "security");

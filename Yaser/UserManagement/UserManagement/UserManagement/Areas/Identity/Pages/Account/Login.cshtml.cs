@@ -15,6 +15,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using UserManagement.Models;
+using Microsoft.AspNet.Identity;
+using System.Net.Mail;
 
 namespace UserManagement.Areas.Identity.Pages.Account
 {
@@ -65,6 +67,11 @@ namespace UserManagement.Areas.Identity.Pages.Account
             ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
             ///     directly from your code. This API may change or be removed in future releases.
             /// </summary>
+            
+            /// <summary>
+            ///     This API supports the ASP.NET Core Identity default UI infrastructure and is not intended to be used
+            ///     directly from your code. This API may change or be removed in future releases.
+            /// </summary>
             [Required]
             [Display (Name ="Email or Username")]
             public string Email { get; set; }
@@ -107,7 +114,9 @@ namespace UserManagement.Areas.Identity.Pages.Account
             returnUrl ??= Url.Content("~/");
 
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
-
+            
+            var username = new EmailAddressAttribute().IsValid(Input.Email) ? new MailAddress(Input.Email).User   : Input.Email;
+            
             if (ModelState.IsValid)
             {
                 // This doesn't count login failures towards account lockout

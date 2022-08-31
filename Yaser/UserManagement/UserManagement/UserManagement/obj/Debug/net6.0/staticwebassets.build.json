@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b5qsMyv2UTS1Btr2a57ekdaacy01pC3W3Q8hCA1hpH8=",
+  "Hash": "rZELWMQoUFtHgtvjXKLwwvStt29LMHI9HRzS/aD/Ls8=",
   "Source": "UserManagement",
   "BasePath": "_content/UserManagement",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Training\\GitHub\\Training\\Yaser\\UserManagement\\UserManagement\\UserManagement\\wwwroot\\Images\\images.jpg",
+      "SourceId": "UserManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Training\\GitHub\\Training\\Yaser\\UserManagement\\UserManagement\\UserManagement\\wwwroot\\",
+      "BasePath": "_content/UserManagement",
+      "RelativePath": "Images/images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\images.jpg"
     },
     {
       "Identity": "D:\\Training\\GitHub\\Training\\Yaser\\UserManagement\\UserManagement\\UserManagement\\wwwroot\\js\\site.js",
